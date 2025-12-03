@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me  
 - 🎓 Computer Science Undergraduate  
 - 💻 Passionate about coding, tech & development  
-- 📘 Currently learning **Data Structures & Algorithms** (DP, Graphs, Trees)  
+- 📘 Learning **Data Structures & Algorithms** (DP, Graphs, Trees)  
 - 🌱 Exploring Web Development: **HTML, CSS, JavaScript, Express.js, MongoDB**  
-- 🧠 A beginner who loves building real-world projects  
+- 🧠 Beginner, but deeply curious & driven  
 - 📫 Reach me at **meghraj0903@gmail.com**
 
 ---
@@ -50,5 +50,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choudharymeghraj&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=choudharymeghraj&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=choudharymeghraj&layout=compact&theme=tokyonight" height="160" />
 </p>
